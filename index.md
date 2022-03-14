@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Welcome to little_maronaw
+This is my website!
+[My sratch profile](https://scratch.mit.edu/users/little_maronaw/)
+Made by [@Jonathan_Mckanna](https://scratch.mit.edu/users/Jonathan_Mckanna/)
 
-You can use the [editor on GitHub](https://github.com/JonthanMckanna/user-little_maronaw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
+/) /)
+( . . )
+( ><)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+✨60th follower: [@getreal1237](https://scratch.mit.edu/users/getreal1237)
+✨mail record: 36
+✨followers: 63
+✨ALT account: [@little-maronawALT](https://scratch.mit.edu/users/little-maronawALT)
+My goal is 50 followers by the end of the year
+♡❀˖⁺.
 
-### Markdown
+### What I'm working on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* favorite thing: cottage-core, dogs, anime
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonthanMckanna/user-little_maronaw/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* bffs : [@-Wolfie-27](https://scratch.mit.edu/users/-Wolfie-27) [@apple-pie4](https://scratch.mit.edu/users/apple-pie4) [@ocha_mocha123](https://scratch.mit.edu/users/ocha_mocha123)
+[@cute_mocha](https://scratch.mit.edu/users/cute_mocha)
